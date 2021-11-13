@@ -1,6 +1,6 @@
 # portfolio-v2
 
-My Personal Portfolio 👋 
+My Personal Portfolio
 
 ## Portfolio Projects
 
