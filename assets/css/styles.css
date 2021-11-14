@@ -19,6 +19,11 @@ body {
     height: 550px;
 }
 
+.title-container {
+    width: 100%;
+    height: 550px;
+}
+
 .container {
     width: 100%;
 }
