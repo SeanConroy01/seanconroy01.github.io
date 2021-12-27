@@ -9,7 +9,7 @@ My Personal Portfolio
 * Project 02 - [Ispum](https://www.imseanconroy.co.uk/project-2)
 * Project 03 - [Statistics](https://www.imseanconroy.co.uk/project-3)
 * Project 04 - [Coronavirus tracker](https://www.imseanconroy.co.uk/project-4)
-* Project 05 - [The Gecko Game](https://www.imseanconroy.co.uk/project-5)
+* Project 05 - [Gecko Game](https://www.imseanconroy.co.uk/project-5)
 * Project 06 - [Lorem Ispum](https://www.imseanconroy.co.uk/project-6) 
 
 ### Past projects
