@@ -5,12 +5,12 @@ My Personal Portfolio
 ## Portfolio Projects
 
 ### Current projects
-* Project 01 - [Lorem Ipsum]()
-* Project 02 - [Lorem Ipsum]()
-* Project 03 - [Lorem Ipsum]()
-* Project 04 - [Lorem Ipsum]()
-* Project 05 - [Lorem Ipsum]()
-* Project 06 - [Lorem Ipsum]()
+* Project 01 - [UpComing](https://www.imseanconroy.co.uk/project-1)
+* Project 02 - [Ispum](https://www.imseanconroy.co.uk/project-2)
+* Project 03 - [Statistics](https://www.imseanconroy.co.uk/project-3)
+* Project 04 - [Coronavirus tracker](https://www.imseanconroy.co.uk/project-4)
+* Project 05 - [The Gecko Game](https://www.imseanconroy.co.uk/project-5)
+* Project 06 - [Lorem Ispum](https://www.imseanconroy.co.uk/project-6) 
 
 ### Past projects
 
