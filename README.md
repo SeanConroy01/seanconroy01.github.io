@@ -2,7 +2,7 @@
 
 [![pages-build-deployment](https://github.com/SeanConroy01/seanconroy01.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SeanConroy01/seanconroy01.github.io/actions/workflows/pages/pages-build-deployment)
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+This is my personal portfolio. It features some of my most recent projects, a bit about me and my contact information.
 
 <div>
   <p>
@@ -16,7 +16,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 ## Current Projects
 
-This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
+The following contains the project currently featured within the portfolio:
 
 * Project 01: [UpComing - Countdown to the moments that matter](https://www.imseanconroy.co.uk/project-1)
 * Project 02: [MyFeed - All your social media feeds in one place](https://www.imseanconroy.co.uk/project-2)
@@ -24,16 +24,6 @@ This is an example of how you may give instructions on setting up your project l
 * Project 04: [COVID-19 Tracker - Stay updated on the viruses spread](https://www.imseanconroy.co.uk/project-4)
 * Project 05: [Gecko Game - Be the gecko and avoid the branches!](https://www.imseanconroy.co.uk/project-5)
 * Project 06: [MCU Timeline - The chronological order for every movie & show](https://www.imseanconroy.co.uk/project-6) 
-
-## Roadmap
-
-- [ ] Add Changelog
-- [ ] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
 
 See the [open issues](https://github.com/SeanConroy01/seanconroy01.github.io/issues) for a full list of proposed features (and known issues).
 
