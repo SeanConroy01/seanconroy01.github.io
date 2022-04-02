@@ -62,47 +62,44 @@
 
 <body>
 
-    <nav>
-        <div class="bg-dark">
-            <div class="container">
-                <div class="d-flex flex-wrap justify-content-center pb-2 pt-3">
-                    <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none d-none d-sm-block">
-                        <span class="fs-5 nav-link link-light">Hello, I'm Sean Conroy.</span>
-                    </a>
-                    <ul class="nav">
-                        <li class="nav-item"><a href="/" class="nav-link link-light">My work</a></li>
-                        <li class="nav-item"><a href="about" class="nav-link link-light">About me</a></li>
-                        <li class="nav-item"><a href="contact" class="nav-link link-light">Contact</a></li>
-                    </ul>
-                </div>
+    <div style="background-image: url('/assets/images/other/main.jpg'); background-position: center; background-repeat: no-repeat; background-size: cover;">
+        <nav class="container">
+            <div class="d-flex flex-wrap justify-content-center pb-2 pt-3">
+                <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none d-none d-sm-block">
+                    <span class="fs-5 nav-link link-light">Hello, I'm Sean Conroy.</span>
+                </a>
+                <ul class="nav">
+                    <li class="nav-item"><a href="/" class="nav-link link-light">My work</a></li>
+                    <li class="nav-item"><a href="about" class="nav-link link-light">About me</a></li>
+                    <li class="nav-item"><a href="/#contact" class="nav-link link-light">Contact</a></li>
+                </ul>
             </div>
-        </div>
-    </nav>
+        </nav>
 
-    <div>
         <section>
-            <div class="bg-dark text-light py-5">
-                <div class="py-5 my-4">
-                    <div class="px-4 py-5 mb-5 text-center">
-                        <h1 class="display-5 fw-400">Hello, I'm Sean Conroy</h1>
-                        <p class="display-5 fw-400">a degree apprentice</p>
-                        <img class="d-block mx-auto mt-4" src="/assets/images/other/arrow-light.svg" alt="" width="72" height="50">
-                    </div>
+            <div class="container p-5">
+                    <div class="p-5">
+                        <div class="text-light p-2 p-lg-5 p-md-5 p-sm-3 mb-5 mt-3">
+                            <h1 class="display-6 fw-300">Hello, I'm Sean Conroy</h1>
+                            <p class="display-2 fw-200">A Degree Apprentice</p>
+                            <img class="d-block mt-4 pt-2" src="/assets/images/other/arrow-light.svg" alt="" width="72" height="50">
+                        </div>
                 </div>
             </div>
         </section>
+    </div>
 
+    <div>
         <section>
-            <div class="container pt-4 g-4">
-              <!-- <h2 class="pb-2">Recent projects.</h2> -->
+            <div class="container py-4 g-4">
                 <div class="row g-4">
 
                     <!-- Project 01 -->
-                    <div class="col-12 col-lg-6 col-md-6 col-sm-12">
+                    <div class="col-12 col-lg-6 col-md-6 col-sm-12" id="project">
                         <div class="bg-light text-dark w-100 h-100 d-flex falign-content-between flex-wrap">
                             <div class="text-center w-100 pt-4 pt-sm-5 px-2 px-sm-4">
                                 <p class="fs-4 mb-2">Project 01 - UpComing</p>
-                                <p class="h1 mb-3 px-5 fw-400">Countdown to the moments that matter</p>
+                                <p class="display-6 mb-3 px-5">Countdown to the moments that matter</p>
                                 <div class="d-grid gap-3 d-sm-flex justify-content-sm-center mb-4 mb-sm-5">
                                     <a href="https://apps.apple.com/us/app/id1507567260/" class="fs-5 project-link d-none d-sm-block">Try it free <i class="fas fa-sm fa-external-link-alt"></i></a>
                                     <a href="project-1" class="fs-5 project-link">Learn more <i class="fas fa-sm fa-chevron-right"></i></a>
@@ -117,7 +114,7 @@
                         <div class="bg-light text-dark w-100 h-100 d-flex falign-content-between flex-wrap">
                             <div class="text-center w-100 pt-4 pt-sm-5 px-2 px-sm-4">
                                 <p class="fs-4 mb-2">Project 02 - MyFeed</p>
-                                <p class="h1 mb-3 px-5 fw-400">All your social media feeds in one place</p>
+                                <p class="display-6 mb-3 px-5">All your social media feeds in one place</p>
                                 <div class="d-grid gap-3 d-sm-flex justify-content-sm-center mb-4 mb-sm-5">
                                     <a href="project-2" class="fs-5 project-link d-none d-sm-block">Try it free <i class="fas fa-sm fa-external-link-alt"></i></a>
                                     <a href="project-2" class="fs-5 project-link">Learn more <i class="fas fa-sm fa-chevron-right"></i></a>
@@ -127,13 +124,14 @@
                         </div>
                     </div>
 
-                    <!-- About me -->
-                    <div class="col-12 col-lg-12 col-md-12 col-sm-12">
-                        <div class="bg-dark text-light">
-                            <div class="project-container px-4" style="background: url('/assets/images/other/background-home-1.png'); background-repeat:no-repeat; background-size:cover; background-position:center;">
-                                <div class="text-center text-light h-100 w-100 d-flex flex-column justify-content-center align-items-center">
-                                    <p class="display-5">A little more about me.</p>
-                                    <a href="about" class="fs-5 link-light project-link">Learn more <i class="fas fa-sm fa-chevron-right"></i></a>
+                     <!-- About me -->
+                     <div class="col-12 col-lg-12 col-md-12 col-sm-12" id="about">
+                        <div class="bg-light text-dark">
+                            <div class="px-5 pt-2">
+                                <div class="p-5 h-100 w-100 d-flex flex-column justify-content-center">
+                                    <p class="display-6">A little bit about me.</p>
+                                    <p class="fs-5 fw-400">I am currently a second-year degree apprentice at Cisco Systems. I am an avid and quick learner, enthusiastic about adopting any programming language, framework, or principle that can further my abilities to develop more complex applications and systems. In my spare time, I am currently experimenting with Robotics and Machine Learning, seeing what is possible while working on some of my own side projects. At some point, I would like to travel the world and experience different cultures and ways of life, maybe backpacking around Europe, surfing in the Tropics or island hoping in Greece.</p>
+                                    <a href="/about" class="fs-5 project-link">Learn more <i class="fas fa-sm fa-chevron-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -144,7 +142,7 @@
                         <div class="bg-dark text-light w-100 h-100 d-flex falign-content-between flex-wrap">
                             <div class="text-center w-100 pt-4 pt-sm-5 px-2 px-sm-4">
                                 <p class="fs-4 mb-2">Project 03 - Statistics</p>
-                                <p class="h1 mb-3 px-5 fw-400">Live global statistics & data</p>
+                                <p class="display-6 mb-3 px-5">Live global statistics & data</p>
                                 <div class="d-grid gap-3 d-sm-flex justify-content-sm-center mb-4 mb-sm-5">
                                     <!-- <a href="project-3" class="fs-5 project-link d-none d-sm-block">Try it free <i class="fas fa-sm fa-external-link-alt"></i></a> -->
                                     <a href="project-3" class="fs-5 project-link">Learn more <i class="fas fa-sm fa-chevron-right"></i></a>
@@ -159,7 +157,7 @@
                         <div class="bg-light text-dark w-100 h-100 d-flex falign-content-between flex-wrap">
                             <div class="text-center w-100 pt-4 pt-sm-5 px-2 px-sm-4">
                                 <p class="fs-4 mb-2">Project 04 - COVID-19 Tracker</p>
-                                <p class="h1 mb-3 px-5 fw-400">Stay updated on the viruses spread</p>
+                                <p class="display-6 mb-3 px-5">Stay updated on the viruses spread</p>
                                 <div class="d-grid gap-3 d-sm-flex justify-content-sm-center mb-4 mb-sm-5">
                                     <a href="project-4" class="fs-5 project-link">Learn more <i class="fas fa-sm fa-chevron-right"></i></a>
                                 </div>
@@ -173,7 +171,7 @@
                         <div class="bg-light text-dark w-100 h-100 d-flex falign-content-between flex-wrap">
                             <div class="text-center w-100 pt-4 pt-sm-5 px-2 px-sm-4">
                                 <p class="fs-4 mb-2">Project 05 - Gecko Game</p>
-                                <p class="h1 mb-3 px-5 fw-400">Be the gecko and avoid the branches!</p>
+                                <p class="display-6 mb-3 px-5">Be the gecko and avoid the branches!</p>
                                 <div class="d-grid gap-3 d-sm-flex justify-content-sm-center mb-4 mb-sm-5">
                                     <a href="project-5" class="fs-5 project-link">Learn more <i class="fas fa-sm fa-chevron-right"></i></a>
                                 </div>
@@ -187,7 +185,7 @@
                         <div class="bg-red text-light w-100 h-100 d-flex falign-content-between flex-wrap">
                             <div class="text-center w-100 pt-4 pt-sm-5 px-2 px-sm-4">
                                 <p class="fs-4 mb-2">Project 06 - MCU Timeline</p>
-                                <p class="h1 mb-3 px-5 fw-400">The chronological order for every movie & show</p>
+                                <p class="display-6 mb-3 px-5">The chronological order for every movie & show</p>
                                 <div class="d-grid gap-3 d-sm-flex justify-content-sm-center mb-4 mb-sm-5">
                                     <a href="https://cinematic-timelines.imseanconroy.co.uk" class="fs-5 link-light project-link d-none d-sm-block">Try it free <i class="fas fa-sm fa-external-link-alt"></i></a>
                                     <a href="project-6" class="fs-5 link-light project-link">Learn more <i class="fas fa-sm fa-chevron-right"></i></a>
@@ -198,12 +196,13 @@
                     </div>
 
                     <!-- Contact -->
-                    <div class="col-12 col-lg-12 col-md-12 col-sm-12">
+                    <div class="col-12 col-lg-12 col-md-12 col-sm-12" id="contact">
                         <div class="bg-dark text-light">
-                            <div class="project-container px-4" style="background: url('/assets/images/other/background-home-2.png'); background-repeat:no-repeat;background-size:cover; background-position:center;">
-                                <div class="text-center h-100 w-100 d-flex flex-column  justify-content-center align-items-center">
-                                    <p class="display-5 fw-400">Do you have any questions?</p>
-                                    <a href="contact" class="fs-5 link-light project-link">Get in contact <i class="fas fa-sm fa-chevron-right"></i></a>
+                            <div class="px-5 py-5" style="background: url('/assets/images/other/background-home-2.png'); background-repeat:no-repeat; background-size:cover; background-position:center;">
+                                <div class="p-5 text-light h-100 w-100 d-flex flex-column justify-content-center">
+                                    <p class="display-6 w-400">Do you have any questions?</p>
+                                    <p class="fs-5 fw-400">I am happy to answer any questions you might have. Reach out on social media or send me an email at hello@imseanconroy.co.uk and I will respond as soon as possible.</p>
+                                    <a href="mailto:hello@imseanconroy.co.uk" class="fs-5 link-light project-link">Contact <i class="fas fa-sm fa-chevron-right"></i></a>
                                 </div>
                             </div>
                         </div>
