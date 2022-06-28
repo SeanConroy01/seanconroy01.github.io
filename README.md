@@ -19,11 +19,12 @@ This is my personal portfolio. It features some of my most recent projects, a bi
 The following contains the project currently featured within the portfolio:
 
 * Project 01: [UpComing - Countdown to the moments that matter](https://www.imseanconroy.co.uk/project-1)
-* Project 02: [MyFeed - All your social media feeds in one place](https://www.imseanconroy.co.uk/project-2)
-* Project 03: [Statistics - Live global statistics & data](https://www.imseanconroy.co.uk/project-3)
+* Project 02: [Habit Tracker - Track your habits, keep your streaks](https://www.imseanconroy.co.uk/project-2)
+* Project 03: [Lorem Ipsum - Lorem ipsum dolor sit amet consectetur elit.](https://www.imseanconroy.co.uk/project-3)
 * Project 04: [COVID-19 Tracker - Stay updated on the viruses spread](https://www.imseanconroy.co.uk/project-4)
 * Project 05: [Gecko Game - Be the gecko and avoid the branches!](https://www.imseanconroy.co.uk/project-5)
-* Project 06: [MCU Timeline - The chronological order for every movie & show](https://www.imseanconroy.co.uk/project-6) 
+* Project 06: [Lorem Ipsum - Lorem ipsum dolor sit amet consectetur elit.](https://www.imseanconroy.co.uk/project-6)
+* Project 07: [Cinematic Timeline - The chronological order of every movie & show](https://www.imseanconroy.co.uk/project-7) 
 
 See the [open issues](https://github.com/SeanConroy01/seanconroy01.github.io/issues) for a full list of proposed features (and known issues).
 
